@@ -1,0 +1,54 @@
+
+/* White: hsl(0, 0%, 100%)
+Light gray: hsl(212, 45%, 89%)
+Grayish blue: */ 
+*{
+    padding: 0%;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+.card{
+    
+    height: 550px;
+    width: 370px;
+    border-radius: 20px;
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+}
+img{
+    width: 327px;
+    height: 327px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+.img{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    margin-bottom: 19px;
+    font-size: 22px;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+.card_content{
+    padding: 0 33px 0;
+}
+
+.attribution { font-size: 11px; text-align: center; padding: 30px;}
+    .attribution a { color: hsl(228, 45%, 44%); }
