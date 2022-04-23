@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-1[Design for qrcode component](./Adekemi qrcode component.png)
+![Design for qrcode component](./Adekemi qrcode component.png)
 
 
 ### Links
